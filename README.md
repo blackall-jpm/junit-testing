@@ -1,5 +1,5 @@
 # Header This is a quick use of markdown language
-Header H1 is used to display the Project heading. 
+Header H1 above is used to display the Project heading. 
 
 ## Sub Headings are like this
 Sub Topic Headings H2 is used for sub sections like Configurations, Authors etc.
